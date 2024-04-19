@@ -1,0 +1,79 @@
+
+A-OK 8, 1 4
+
+A-OK 1, 2 4
+
+A-OK 5, 3 4
+
+A-OK 12, 4 4
+
+A-OK 6, 5 8
+
+A-OK 2, 6 8
+
+A-OK 3, 7 8
+
+A-OK 7, 8 8
+
+A-OK 10, 9 12
+
+A-OK 4, 10 12
+
+R-OK 1, 9 12
+
+R-OK 2, 8 12
+
+R-OK 3, 7 8
+
+R-OK 4, 6 8
+
+R-OK 5, 5 8
+
+R-OK 6, 4 8
+
+R-OK 7, 3 4
+
+R-OK 8, 2 4
+
+R-OK 10, 1 4
+
+R-OK 12, 0 4
+
+R-NOK 1, 0 4
+
+##
+
+F-NOK 8
+
+A-OK 38, 1 4
+
+A-OK 58, 2 4
+
+A-OK 73, 3 4
+
+A-OK 55, 4 4
+
+A-OK 20, 5 8
+
+F-OK MCINTYRE CRAIG 11
+
+F-NOK 12
+
+F-NOK 4
+
+##
+38 O'SULLIVAN KATE 21
+58 NOLAN ALEXANDER 30
+73 MCINTYRE CRAIG 11
+55 MUNRO JOEL 18
+20 WHITE AALIYAH 6
+
+R-NOK 12, 5 8
+
+R-OK 38, 4 8
+
+R-OK 58, 3 4
+
+F-NOK 38
+
+F-OK WHITE AALIYAH 6
